@@ -1,9 +1,1 @@
-{
-  "owner": {
-    "email": "my-pwa-apps@outlook.com",
-    "username": "my-pwa-apps"
-  },
-  "record": {
-    "CNAME": "anycorp.pages.dev"
-  }
-}
+{"owner":{"email":"my-pwa-apps@outlook.com","username":"my-pwa-apps"},"records":{"CNAME":"anycorp.pages.dev"}}
